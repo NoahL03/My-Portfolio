@@ -51,7 +51,9 @@ This tutorial explains how to create a two-column text layout and vertically jus
    ![Figure 3](id3.png)  
    *Figure 3. Vertical justification settings in Text Frame Options. (Source: Author)*  
 
-15. Save your completed document.  
+<ol start="15">
+  <li>Save your completed document.</li>
+</ol>  
 
 ## Conclusion
 You have now created a two-column layout and applied vertical justification to your text. These tools can help improve the organization and appearance of longer documents.
