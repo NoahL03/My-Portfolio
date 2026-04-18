@@ -8,6 +8,7 @@ title: Resume
 ## Noah Long
 407-111-2222  |  no326134@ucf.edu  |  Oviedo, FL  <br><br>
 
+## Summary
 Technical documentation student with diverse experience in both written and visual communication, digital media, and UX/UI design. Brings strong communication, leadership, and problem-solving skills from working as an operations supervisor.
 
 ## Education
