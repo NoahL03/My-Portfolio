@@ -8,7 +8,9 @@ title: Cover Letter
 ## Noah Long
 407-111-2222  |  no326134@ucf.edu  |  Oviedo, FL  
 
+
 April 18, 2026  
+
 
 Hornblower Group  
 4901 Vineland Road, Suite 200  
@@ -27,6 +29,9 @@ I am particularly interested in this position with Hornblower because of the com
 
 I welcome the opportunity to further discuss my qualifications for the role.  
 
-Sincerely,  
-![Signature](signature.png)
+Sincerely,<br><br>
+
+<img src="/images/signature.png" alt="Signature" style="width:300px; max-width:none;">
+
+<br>
 Noah Long
