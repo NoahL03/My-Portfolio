@@ -95,7 +95,7 @@ This project will be completed over the course of one semester beginning in Janu
 ### Budget
 
 | Item | Cost | Total |
-|-----|-----|------|
+|------|------|------|
 | Tester incentives | $10 × 15 people | $150 |
 | Miscellaneous | $20 | $20 |
 | **Total** |  | **$170** |
