@@ -42,9 +42,9 @@ This tutorial explains how to create a two-column text layout and vertically jus
 
 11. To balance the length of the columns, go to **Object > Text Frame Options** again.  
 
-12. Check **Balance Columns** in the **General** section.   
+12. Check **Balance Columns** in the General section.   
 
-13. Change the vertical alignment to **Justify** in the **Vertical Justification** section.  
+13. Change the vertical alignment to Justify in the **Vertical Justification** section.  
 
 14. Click **OK** to apply the settings.  
 
