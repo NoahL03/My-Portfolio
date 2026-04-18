@@ -3,6 +3,6 @@ layout: default
 title: Instructions
 ---
 
-# Instructions
+## Instructions
 
 [Paste your instructions here]
