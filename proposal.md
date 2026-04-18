@@ -3,6 +3,6 @@ layout: default
 title: Proposal
 ---
 
-# Proposal
+## Proposal
 
 [Paste your proposal here]
