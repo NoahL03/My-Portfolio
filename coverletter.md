@@ -27,9 +27,6 @@ I am particularly interested in this position with Hornblower because of the com
 
 I welcome the opportunity to further discuss my qualifications for the role.  
 
-Sincerely,<br><br>
-
+Sincerely,
 <img src="signature.png" alt="Signature" style="width:150px; max-width:none;">
-
-<br>
 Noah Long
