@@ -6,11 +6,9 @@ title: Cover Letter
 # Cover Letter
 
 ## Noah Long
-407-111-2222  |  no326134@ucf.edu  |  Oviedo, FL  
+407-111-2222  |  no326134@ucf.edu  |  Oviedo, FL  <br><br>
 
-
-April 18, 2026  
-
+April 18, 2026  <br><br>
 
 Hornblower Group  
 4901 Vineland Road, Suite 200  
