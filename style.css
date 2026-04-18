@@ -75,6 +75,28 @@ li {
   margin-bottom: 0.5rem;
 }
 
+/* TABLES */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+
+th {
+  text-align: left;
+  border-bottom: 2px solid var(--primary);
+  padding-bottom: 0.3rem;
+}
+
+td {
+  padding: 0.4rem 0;
+  vertical-align: top;
+}
+
+tr:not(:last-child) td {
+  border-bottom: 1px solid #eee;
+}
+
 /* FOOTER */
 footer { 
   text-align: center; 
