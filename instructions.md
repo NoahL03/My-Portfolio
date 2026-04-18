@@ -38,3 +38,20 @@ This tutorial explains how to create a two-column text layout and vertically jus
 
 9. Click **OK** to apply the column settings. 
 
+10. Type or paste your text into the frame.  
+
+11. To balance the length of the columns, go to **Object > Text Frame Options** again.  
+
+12. Locate the **Vertical Justification** section.  
+
+13. Change the vertical alignment to **Justify**.  
+
+14. Click **OK** to apply the settings.  
+
+   ![Figure 3](id3.png)  
+   *Figure 3. Vertical justification settings in Text Frame Options. (Source: Author)*  
+
+15. Save your completed document.  
+
+## Conclusion
+You have now created a two-column layout and applied vertical justification to your text. These tools can help improve the organization and appearance of longer documents.
