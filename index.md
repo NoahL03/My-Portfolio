@@ -11,5 +11,5 @@ Noah Long is a future technical writer with an interdisciplinary background, inc
 
 - [Resume](resume.md)
 - [Cover Letter](coverletter.md)
-- [Instructions](instructions.md)
-- [Proposal](proposal.md)
+- [Writing Sample: Instructions](instructions.md)
+- [Writing Sample: Proposal](proposal.md)
