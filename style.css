@@ -1,7 +1,7 @@
 /* COLORS - Change these to personalize your site */
 :root {
-  --primary: #000000;    /* UCF Black */
-  --accent: #FFC904;     /* UCF Gold */
+  --primary: #0F3D91;   /* sapphire */
+  --accent: #4DA3FF;    /* light blue */
   --text: #333;
   --background: #fff;
 }
