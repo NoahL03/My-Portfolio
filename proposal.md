@@ -5,9 +5,7 @@ title: Proposal
 
 # Proposal
 
-## Improving UX in UCF’s Student Portal to Reduce Academic Advising Workload
-
----
+## Improving UX in UCF’s Student Portal
 
 ### Background
 
