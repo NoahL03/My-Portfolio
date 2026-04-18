@@ -43,6 +43,7 @@ main {
 
 /* HEADINGS */
 h1 { 
+  color: var(--primary);
   border-bottom: 3px solid var(--accent); 
   padding-bottom: 0.5rem;
 }
