@@ -31,7 +31,7 @@ I welcome the opportunity to further discuss my qualifications for the role.
 
 Sincerely,<br><br>
 
-<img src="/images/signature.png" alt="Signature" style="width:300px; max-width:none;">
+<img src="signature.png" alt="Signature" style="width:300px; max-width:none;">
 
 <br>
 Noah Long
