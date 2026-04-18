@@ -8,11 +8,15 @@ title: Instructions
 ## How to Create a 2-Column Layout in Adobe InDesign
 This tutorial explains how to create a two-column text layout and vertically justify the text in Adobe InDesign. These steps are designed for beginners who are new to working with text frames and layout settings.
 
-## Materials
+---
+
+### Materials
 - Adobe InDesign  
 - Text content to place into the document  
 
-## Instructions
+---
+
+### Instructions
 
 1. In Adobe InDesign, select **File > New > Document** to create a new document.  
 
@@ -55,5 +59,7 @@ This tutorial explains how to create a two-column text layout and vertically jus
   <li>Save your completed document.</li>
 </ol>  
 
-## Conclusion
+---
+
+### Conclusion
 You have now created a two-column layout and applied vertical justification to your text. These tools can help improve the organization and appearance of longer documents.
