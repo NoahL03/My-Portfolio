@@ -7,6 +7,8 @@ title: Proposal
 
 ## Improving UX in UCF’s Student Portal to Reduce Academic Advising Workload
 
+---
+
 ### Background
 
 User experience (UX) design affects how easily and efficiently people can use digital systems. Poor design forces users to rely on external help rather than completing tasks independently (Norman, 2013).
