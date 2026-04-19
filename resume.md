@@ -30,7 +30,7 @@ Major: Interdisciplinary Studies | Anticipated December 2026
 - Maintained quality work in a high-stakes environment  
 
 ## Skills
-**Technical Skills:** Microsoft Office (Word, PowerPoint, Excel, Outlook), Adobe Creative Suite (InDesign, Photoshop, Animate, Premiere Pro, Acrobat), GitHub, Markdown, Computer Animation, Game Design Concepts, Digital Content Creation, Basic UI/UX Principles  
+**Technical Skills:** Microsoft Office (Word, PowerPoint, Excel, Outlook), Adobe Creative Suite (InDesign, Photoshop, Animate, Premiere Pro, Acrobat), GitHub, Markdown, HTML/CSS (working knowledge for content editing and layout adjustments), Basic UI/UX Principles, Computer Animation, Game Design Concepts, Digital Content Creation   
 
 **Professional Skills:** Team Leadership, Client Communication, Operations Management, Equipment Coordination, Problem Solving, Time Management, Attention to Detail, High-Pressure Decision Making  
 
