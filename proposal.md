@@ -82,13 +82,13 @@ This project will be completed over the course of one semester beginning in Janu
 
 | Dates | Tasks |
 |------|------|
-| Jan 1 - 20 | Define research scope; review UX best practices |
+| Jan 1 - Jan 20 | Define research scope; review UX best practices |
 | Jan 21 - Feb 10 | Design testing plan |
-| Feb 11 - 28 | Recruit participants; prepare materials |
-| Mar 1 - 20 | Conduct initial usability testing |
+| Feb 11 - Feb 28 | Recruit participants; prepare materials |
+| Mar 1 - Mar 20 | Conduct initial usability testing |
 | Mar 21 - Apr 10 | Analyze results; design prototype |
-| Apr 11 - 20 | Conduct second round of testing |
-| Apr 21 - 30 | Finalize findings |
+| Apr 11 - Apr 20 | Conduct second round of testing |
+| Apr 21 - Apr 30 | Finalize findings |
 
 ---
 
