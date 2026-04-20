@@ -4,7 +4,7 @@ title: Cover Letter
 ---
 
 # Cover Letter
-A tailored cover letter written for a UX-focused role, connecting technical writing experience with an interest in user-centered design and digital communication. It highlights relevant coursework, internship experience, and transferable skills.  
+This sample represents a tailored cover letter written for a UX-focused role, connecting technical writing experience with an interest in user-centered design and digital communication. It highlights relevant coursework, internship experience, and transferable skills.  
 📄[View PDF](cover_letter.pdf)
 ## Noah Long
 XXXX Alafaya Trail, Orlando, FL 32816, (XXX)XXX-XXXX, xxx@ucf.edu  <br><br>  <br><br>
