@@ -4,7 +4,7 @@ title: Instructions
 ---
 
 # Instructions
-A step-by-step instructional document explaining how to create a two-column layout in Adobe InDesign. The document focuses on clarity, visual support, and organization for beginner users.  
+This sample represents a step-by-step instructional document explaining how to create a two-column layout in Adobe InDesign. The document focuses on clarity, visual support, and organization for beginner users.  
  📄[View PDF](instructions.pdf)
 ## How to Create a 2-Column Layout in Adobe InDesign
 This tutorial explains how to create a two-column text layout and vertically justify the text in Adobe InDesign. These steps are designed for beginners who are new to working with text frames and layout settings.
