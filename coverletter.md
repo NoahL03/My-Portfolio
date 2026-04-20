@@ -6,7 +6,7 @@ title: Cover Letter
 # Cover Letter
 
 ## Noah Long
-1435 Main Street, Orlando, FL 32801  <br><br>  <br><br>
+XXXX Alafaya Trail, Orlando, FL 32816, (XXX)XXX-XXXX, xxx@ucf.edu  <br><br>  <br><br>
 
 April 18, 2026  <br><br>
 
