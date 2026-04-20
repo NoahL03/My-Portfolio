@@ -48,18 +48,26 @@ main img {
   margin: 1rem 0;
 }
 
-.two-col {
-  display: flex;
-  gap: 60px;
+.link-row {
   margin-top: 15px;
 }
 
-.two-col div {
-  flex: 1;
+.pill {
+  display: inline-block;
+  margin: 6px 10px 6px 0;
+  padding: 8px 14px;
+  background: #f4f6f8;
+  border: 1px solid #dcdcdc;
+  border-radius: 20px;
+  text-decoration: none;
+  color: #2C5AA0;
+  font-size: 14px;
+  transition: all 0.2s ease;
 }
 
-.two-col a {
-  text-decoration: none;
+.pill:hover {
+  background: #e8f0ff;
+  border-color: #2C5AA0;
 }
 
 /* HEADINGS */
