@@ -6,7 +6,7 @@ title: Resume
 # Resume
 
 ## Noah Long
-1435 Main Street, Orlando, FL 32801  |  407-111-2222  |  noahl@ucf.edu  <br><br>
+XXXX Alafaya Trail, Orlando, FL 32816, (XXX)XXX-XXXX, xxx@ucf.edu  <br><br>
 
 ## Summary
 Technical documentation student with diverse experience in both written and visual communication, digital media, and UX/UI design. Brings strong communication, leadership, and problem-solving skills from working as an operations supervisor.
