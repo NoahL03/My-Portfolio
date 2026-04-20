@@ -4,8 +4,7 @@ title: Proposal
 ---
 
 # Proposal
-- **Writing Sample: Proposal**  
-  A project proposal outlining a UX research study focused on improving usability within a university system. It includes research goals, methodology, timeline, and budget considerations.  
+A project proposal outlining a UX research study focused on improving usability within a university system. It includes research goals, methodology, timeline, and budget considerations.  
   [View PDF](proposal.pdf)
   
 ## Improving UX in UCF’s Student Portal
