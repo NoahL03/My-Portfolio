@@ -48,6 +48,20 @@ main img {
   margin: 1rem 0;
 }
 
+.two-col {
+  display: flex;
+  gap: 60px;
+  margin-top: 15px;
+}
+
+.two-col div {
+  flex: 1;
+}
+
+.two-col a {
+  text-decoration: none;
+}
+
 /* HEADINGS */
 h1 { 
   color: var(--primary);
