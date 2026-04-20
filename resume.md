@@ -4,7 +4,8 @@ title: Resume
 ---
 
 # Resume
-
+A one-page professional resume highlighting experience in operations, technical writing, and interdisciplinary coursework. It emphasizes both longtime operational experience and developing skills in documentation and UX-focused communication.  
+📄[View PDF](resume.pdf)
 ## Noah Long
 XXXX Alafaya Trail, Orlando, FL 32816, (XXX)XXX-XXXX, xxx@ucf.edu  <br><br>
 
@@ -30,7 +31,7 @@ Major: Interdisciplinary Studies | Anticipated December 2026
 - Maintained quality work in a high-stakes environment  
 
 ## Skills
-**Technical Skills:** Microsoft Office (Word, PowerPoint, Excel, Outlook), Adobe Creative Suite (InDesign, Photoshop, Animate, Premiere Pro, Acrobat), GitHub, Markdown, HTML/CSS (working knowledge for content editing and layout adjustments), Basic UI/UX Principles, Computer Animation, Game Design Concepts, Digital Content Creation   
+**Technical Skills:** Microsoft Office (Word, PowerPoint, Excel, Outlook), Adobe Creative Suite (InDesign, Photoshop, Animate, Premiere Pro, Acrobat), GitHub, Markdown, HTML/CSS (working knowledge for content editing and layout adjustments), Figma, Basic UI/UX Principles, Computer Animation, Game Design Concepts, Digital Content Creation   
 
 **Professional Skills:** Team Leadership, Client Communication, Operations Management, Equipment Coordination, Problem Solving, Time Management, Attention to Detail, High-Pressure Decision Making  
 
