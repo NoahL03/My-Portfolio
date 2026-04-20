@@ -6,7 +6,7 @@ title: Cover Letter
 # Cover Letter
 
 ## Noah Long
-407-111-2222  |  no326134@ucf.edu  |  Oviedo, FL  <br><br>
+1435 Main Street, Orlando, FL 32801  |  407-111-2222  |  noahl@ucf.edu  <br><br>  <br><br>
 
 April 18, 2026  <br><br>
 
