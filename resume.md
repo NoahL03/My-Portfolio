@@ -4,7 +4,7 @@ title: Resume
 ---
 
 # Resume
-A one-page professional resume highlighting experience in operations, technical writing, and interdisciplinary coursework. It emphasizes both longtime operational experience and developing skills in documentation and UX-focused communication.  
+This sample represents a one-page professional resume highlighting experience in operations, technical writing, and interdisciplinary coursework. It emphasizes both longtime operational experience and developing skills in documentation and UX-focused communication.  
 📄[View PDF](resume.pdf)
 ## Noah Long
 XXXX Alafaya Trail, Orlando, FL 32816, (XXX)XXX-XXXX, xxx@ucf.edu  <br><br>
