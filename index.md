@@ -9,13 +9,9 @@ Noah Long is a future technical writer with an interdisciplinary background, inc
 
 ## Professional Writing Samples/Projects
 
-<div class="two-col">
-  <div>
-    <p><a href="resume.md">Resume</a></p>
-    <p><a href="coverletter.md">Cover Letter</a></p>
-  </div>
-  <div>
-    <p><a href="instructions.md">Writing Sample: Instructions</a></p>
-    <p><a href="proposal.md">Writing Sample: Proposal</a></p>
-  </div>
+<div class="link-row">
+  <a href="resume.md" class="pill">Resume</a>
+  <a href="coverletter.md" class="pill">Cover Letter</a>
+  <a href="instructions.md" class="pill">Instructions</a>
+  <a href="proposal.md" class="pill">Proposal</a>
 </div>
