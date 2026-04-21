@@ -7,58 +7,40 @@ title: Instructions
 This sample represents a step-by-step instructional document explaining how to create a two-column layout in Adobe InDesign. The document focuses on clarity, visual support, and organization for beginner users.  
  📄[View PDF](instructions.pdf)
 ## How to Create a 2-Column Layout in Adobe InDesign
-This tutorial explains how to create a two-column text layout and vertically justify the text in Adobe InDesign. These steps are designed for beginners who are new to working with text frames and layout settings.
 
-### Materials
-- Adobe InDesign  
-- Text content to place into the document  
+Step 1: Click **File** in the top menu.  
+Step 2: Click **New**.  
+Step 3: Click **Document**.
 
----
+![Create new document](fig1b.png)  
+*Figure 1: Create new document. (Source: Noah Long)*
 
-### Instructions
+Step 4: Set the page size to **8.5 x 11" portrait**.  
+Step 5: Set all four margins to **0.5"**.  
+Step 6: Click **Create** to open the document.
 
-1. In Adobe InDesign, select **File > New > Document** to create a new document.  
+![New document settings](fig2b.png)  
+*Figure 2: New document page settings. (Source: Noah Long)*
 
-   ![Figure 1](id1.png)  
-   *Figure 1. New document setup window. (Source: Author)*  
+Step 7: Click the **Type Tool (T)** (text tool.png) in the left toolbar.  
 
-2. Set the page size, margins, and other document settings. 
+Step 8: Click and drag from the top left corner to the bottom right corner to create a text frame.
 
-3. Click **Create** to open the document.  
+![Create text frame](fig3.png)  
+*Figure 3. Size text box to screen. (Source: Noah Long)*
 
-4. Select the **Type Tool** from the toolbar.  
+Step 9: Click **Object** in the top menu.  
+Step 10: Click **Text Frame Options** to open the panel.
 
-5. Click and drag to create a text frame in the desired size. The purple lines on the page represent the margin guides.  
+![Text Frame Options](fig4a.png)  
+*Figure 4: Opening Text Frame Options panel. (Source: Noah Long)*
 
-6. Go to **Object > Text Frame Options** to open the Text Frame Options panel.  
+Step 11: Set the number of columns to **2**.  
+Step 12: Click **OK** to apply the column settings.
 
-7. Set the number of columns to **2**.  
+![Column settings](fig4.png)  
+*Figure 5: Column settings in Text Frame Options panel. (Source: Noah Long)*
 
-8. Adjust the gutter value to control spacing between columns.  
-
-   ![Figure 2](id2.png)  
-   *Figure 2. Text Frame Options panel showing column settings. (Source: Author)*  
-
-9. Click **OK** to apply the column settings. 
-
-10. Type or paste your text into the frame.  
-
-11. To balance the length of the columns, go to **Object > Text Frame Options** again.  
-
-12. Check **Balance Columns** in the General section.   
-
-13. Change the vertical alignment to Justify in the **Vertical Justification** section.  
-
-14. Click **OK** to apply the settings.  
-
-   ![Figure 3](id3.png)  
-   *Figure 3. Vertical justification settings in Text Frame Options. (Source: Author)*  
-
-<ol start="15">
-  <li>Save your completed document.</li>
-</ol>  
-
----
-
-### Conclusion
-You have now created a two-column layout and applied vertical justification to your text. These tools can help improve the organization and appearance of longer documents.
+Step 13: Type or paste your text into the frame. It will automatically flow between the columns.  
+Step 14: Click **File** in the top menu.  
+Step 15: Click **Save** to save your document.
