@@ -121,14 +121,14 @@ tr:not(:last-child) td {
 
 img {
   display: block;
-  margin: 20px auto 5px auto; /* top, right/left, bottom */
+  margin: 20px auto 6px auto;
 }
 
-img + p {
-  margin-top: 5px;
-  margin-bottom: 20px;
+p em {
+  display: block;
   text-align: center;
-  font-style: italic;
+  margin-top: 4px;
+  margin-bottom: 16px;
   font-size: 0.9em;
 }
 
