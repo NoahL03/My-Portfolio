@@ -115,7 +115,7 @@ This project will be completed over the course of one semester beginning in Janu
 
 ### References
 
-Norman, D. A. (2013). The Design of Everyday Things. MIT Press.
+Norman, D. A. (2013). <span style="font-style: italic;">The Design of Everyday Things</span>. MIT Press.
 
-Brooks, D. C., & Pomerantz, J. (2019). New life for legacy systems. EDUCAUSE Review. https://er.educause.edu/articles/2019/8/new-life-for-legacy-systems
+Brooks, D. C., & Pomerantz, J. (2019). New life for legacy systems. <span style="font-style: italic;">EDUCAUSE Review</span>. https://er.educause.edu/articles/2019/8/new-life-for-legacy-systems
 
