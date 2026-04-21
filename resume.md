@@ -8,7 +8,7 @@ This sample represents a one-page professional resume highlighting experience in
 📄[View PDF](resume.pdf)
 ## Noah Long
 XXXX Alafaya Trail, Orlando, FL 32816, (XXX)XXX-XXXX, xxx@ucf.edu  <br><br>
----
+
 ## Summary
 Technical documentation student with diverse experience in both written and visual communication, digital media, and UX/UI design. Brings strong communication, leadership, and problem-solving skills from working as an operations supervisor.
 
