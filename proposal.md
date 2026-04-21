@@ -25,25 +25,31 @@ This project will evaluate the usability of UCF’s student portal and schedule 
 
 ### Methodology
 
-This study will use usability testing to compare how students interact with the current system versus a redesigned version. Approximately 12–15 UCF undergraduate students will be recruited to participate. This number is large enough to identify common issues while still being manageable within the scope of the project.
+This study will use usability testing to compare how students interact with the current system versus a redesigned version. I will recruit 12 UCF students by obtaining permission and posting flyers in Trevor Colbourn Hall (TCH) and asking the Integrative Studies advising team to email the opportunity to all students in the school. Students will be offered a $20 Cane’s gift card in exchange for their time.
 
-Participants will be asked to complete common tasks, such as:
+The participant group of 12 students is large enough to identify common issues while still being manageable within the scope of the project. Testing will be conducted on campus in a quiet location with Internet access.
 
-- Using the Schedule Builder  
-- Importing schedules to their enrollment shopping cart  
-- Completing enrollment  
-- Viewing and editing their Pegasus Path  
-- Viewing their Knight Audit  
+Using a laptop computer and standard web browser, participants will be asked to log into www.myucf.edu and complete the following common tasks:
 
-While completing these tasks, the following will be recorded:
+- Find 5 specific classes for summer using the Schedule Builder
+- Generate class schedule for summer
+- Import schedule to their enrollment shopping cart
+- Complete enrollment
+- View and edit their Pegasus Path
+- View their Knight Audit
 
-- Time it takes to complete each task  
-- Number of mistakes before finding the correct information  
-- Areas where participants get confused or hesitate  
-- Areas where the user feels like they cannot find the correct information and require outside help  
-- General feedback on how easy or difficult the system feels  
+I will record the following data in an Excel spreadsheet during each task:
 
-After the initial testing, the most common usability issues will be identified. Based on these findings, improved interface designs will be created using a tool such as Figma. These designs will focus on making navigation clearer and reducing unnecessary steps. Participants will then complete the same tasks using a clickable prototype of the redesigned interface. The results from both rounds will be compared to see if the changes improved efficiency, clarity, and the need for external help.
+- Time it takes participant to successfully complete the task
+- Number of mistakes the participant makes before finding the correct information
+- Specific pages or areas where participants get confused or hesitate
+- Any specific pages or areas where the user feels like they cannot find the correct information and cannot proceed without outside help
+- If the task is able to be successfully completed (yes or no)
+- Participant rating (1-5) on how easy (5) or difficult (1) it was to complete the task  
+
+After the initial testing, results will be analyzed to identify the most common usability issues. Based on these findings, improved interface designs will be created using Figma. These designs will focus on making navigation clearer, reducing unnecessary steps, and making these tasks more efficient and faster to complete. 
+
+During the second round of testing, participants will complete the same tasks using a clickable prototype of the redesigned interface. An identical set of data will be recorded. The results from both rounds will be compared to see if the changes improved efficiency, clarity, the need for external help, and success in completing the tasks.
 
 ---
 
@@ -51,12 +57,13 @@ After the initial testing, the most common usability issues will be identified. 
 
 It is expected that the redesigned interface will:
 
-- Reduce the time needed to complete most tasks  
-- Decrease the number of times the user navigates to the wrong place initially because the correct place is not easy to find  
-- Make navigation feel more straightforward and improve overall user confidence  
-- Decrease the need for external help  
+- Reduce the time needed to complete most tasks
+- Decrease the number of times the user navigates to the wrong place initially because the correct place is not easy to find
+- Make navigation feel more straightforward, and improve overall user confidence
+- Improve the number of tasks the user is able to complete successfully
+- Decrease the need for external help
 
-These results would suggest that even small UX/UI improvements can make a noticeable difference in how students interact with the system and how that translates to questions for their advisors.
+These results would suggest that even small UX/UI improvements can make a noticeable difference in how students interact with the system and how that translates to questions for their advisors. Results will be compiled and presented at the student research showcase in spring of 2027.
 
 ---
 
@@ -91,6 +98,8 @@ This project will be completed over the course of one semester beginning in Janu
 | Mar 21 - Apr 10 | Analyze results; design prototype |
 | Apr 11 - Apr 20 | Conduct second round of testing |
 | Apr 21 - Apr 30 | Finalize findings |
+| May 1 - Oct 1 | Prepare research report and presentation materials |
+| March 2028 (dates TBD) | Present findings at Student Research Showcase |
 
 ---
 
@@ -98,9 +107,9 @@ This project will be completed over the course of one semester beginning in Janu
 
 | Item | Cost | Total |
 |------|------|------|
-| Tester incentives | $10 × 15 people | $150 |
-| Miscellaneous | $20 | $20 |
-| **Total** |  | **$170** |
+| Tester incentives ($20 Cane’s gift card per participant) | $20 × 12 people | $240 |
+| Poster printing through SGA | No cost | $0 |
+| **Total** |  | **$240** |
 
 ---
 
