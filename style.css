@@ -41,11 +41,29 @@ main {
   box-shadow: 0 4px 14px rgba(0,0,0,0.08);
 }
 
-main img {
+main p:has(img) {
+  text-align: center;
+  margin-bottom: 0.25rem;
+}
+
+main p:has(img) img {
+  display: block;
   max-width: 80%;
   height: auto;
+  margin: 1rem auto 0.25rem auto;
+}
+
+main p:has(em) {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+main p em {
   display: block;
-  margin: 1rem 0;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  font-style: italic;
 }
 
 .link-row {
@@ -117,19 +135,6 @@ td {
 
 tr:not(:last-child) td {
   border-bottom: 1px solid #eee;
-}
-
-img {
-  display: block;
-  margin: 20px auto 6px auto;
-}
-
-p em {
-  display: block;
-  text-align: center;
-  margin-top: 4px;
-  margin-bottom: 16px;
-  font-size: 0.9em;
 }
 
 /* FOOTER */
