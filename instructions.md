@@ -23,7 +23,6 @@ Step 6: Click **Create** to open the document.
 *Figure 2: New document page settings. (Source: Noah Long)*
 
 Step 7: Click the **Type Tool (T)** (text tool.png) in the left toolbar.  
-
 Step 8: Click and drag from the top left corner to the bottom right corner to create a text frame.
 
 ![Create text frame](fig3.png)  
