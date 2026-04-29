@@ -132,6 +132,22 @@ li {
   margin-bottom: 0.5rem;
 }
 
+.back-to-top {
+  text-align: right;
+  font-size: 0.85em;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.back-to-top a {
+  color: #666;
+  text-decoration: none;
+}
+
+.back-to-top a:hover {
+  text-decoration: underline;
+}
+
 /* TABLES */
 table {
   width: 100%;
