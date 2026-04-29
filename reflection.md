@@ -15,7 +15,7 @@ This reflection summarizes my experience in this course, focusing on what I lear
 
 ---
 
-## What assignment am I most proud of?
+## What I'm Proud Of?
 
 I am most proud of completing all of the major writing assignments in this course, especially my proposal, since that was something I had never written before. Early in the semester, I fell behind due to personal and academic challenges, and it became difficult to re-engage. What I am most proud of is that I did not give up. I used the course resources, reviewed examples, and worked through each assignment step by step until everything was completed. I also continued revising assignments based on Professor Johnson’s feedback, even when they were no longer eligible to be regraded. I did this to apply what I learned and to make each document as strong as possible, which helped me get more out of the experience overall.
 
@@ -23,7 +23,7 @@ One of the most important things I learned through this process is how to approa
 
 ---
 
-## What are my strengths and areas for growth?
+## Strengths & Growth
 
 My strengths as a communicator lean heavily toward the visual and design side. I naturally think about layout, spacing, and how information is presented on a page. This course reinforced how important those elements are in technical communication, especially when creating instructions or user-focused content.
 
@@ -31,7 +31,7 @@ At the same time, I know that I still need to continue developing my writing, es
 
 ---
 
-## How will I apply what I learned?
+## Future Applications
 
 The skills I developed in this course directly apply to my technical writing internship and future career. I am already using what I learned about structure, step-by-step writing, and visual communication in real-world projects.
 
