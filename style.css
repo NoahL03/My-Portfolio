@@ -95,6 +95,16 @@ h2 {
   margin-bottom: 0.4rem;
 }
 
+.reflection-page h2 {
+  border-top: 1px solid #e5e5e5;
+  padding-top: 1rem;
+  margin-top: 2rem;
+}
+
+.reflection-page h1 {
+  border-bottom: none;
+}
+
 /* LINKS */
 a { 
   color: var(--primary);
