@@ -8,14 +8,14 @@ title: Reflection
 This reflection summarizes my experience in this course, focusing on what I learned, what I’m most proud of, and how these skills connect to my future work. While the semester had a difficult start, completing the major assignments and building this portfolio helped me develop both technical writing and web-based communication skills.
 
 <div class="link-row">
-  <a href="#what-assignment-am-i-most-proud-of" class="pill">What I'm Proud Of</a>
-  <a href="#what-are-my-strengths-and-areas-for-growth" class="pill">Strengths & Growth</a>
-  <a href="#how-will-i-apply-what-i-learned" class="pill">Future Application</a>
+  <a href="#what-im-proud-of" class="pill">What I'm Proud Of</a>
+  <a href="#strengths-growth" class="pill">Strengths & Growth</a>
+  <a href="#future-application" class="pill">Future Application</a>
 </div>
 
 ---
 
-## What I'm Proud Of?
+## What I'm Proud Of? {#what-im-proud-of}
 
 Early in the semester, I fell behind due to personal and academic challenges, and it became difficult to re-engage. What I am most proud of is that I did not give up. I used the course resources, reviewed examples and feedback, and worked through each assignment step by step until everything was completed. I also continued revising assignments based on Professor Johnson’s feedback, even when they were no longer eligible to be regraded. I did this to apply what I learned and to make each document as strong as possible for my portfolio, which helped me get more out of the experience overall. I am  proud that I was able to complete all of the major writing assignments in this course, especially my proposal, since that was I type of writing that was completely new to me. 
 
@@ -23,7 +23,7 @@ One of the most important things I learned through this process is how to approa
 
 ---
 
-## Strengths & Growth
+## Strengths & Growth {#strengths-growth}
 
 My strengths as a communicator lean heavily toward the visual and design side. I naturally think about layout, spacing, and how information looks on a page. This course reinforced how important those elements are in technical communication, especially when creating instructions or user-focused content.
 
@@ -31,7 +31,7 @@ At the same time, I know that I still need to continue developing my writing, es
 
 ---
 
-## Future Applications
+## Future Applications {#future-application}
 
 The skills I developed in this course directly apply to my technical writing internship and future career. I am already using what I learned about structure, step-by-step writing, and visual communication in real-world projects.
 
