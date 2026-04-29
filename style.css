@@ -154,6 +154,29 @@ tr:not(:last-child) td {
   border-bottom: 1px solid #eee;
 }
 
+.link-row.space-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.pill-group {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.reflection-inline {
+  font-size: 0.9em;
+  color: #2C5AA0;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.reflection-inline:hover {
+  text-decoration: underline;
+}
+
 /* FOOTER */
 footer { 
   text-align: center; 
