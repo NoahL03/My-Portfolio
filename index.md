@@ -16,3 +16,7 @@ Noah Long is a future technical writer with an interdisciplinary background, inc
   <a href="instructions.html" class="pill">Instructions</a>
   <a href="proposal.html" class="pill">Proposal</a>
 </div>
+
+<p class="reflection-link">
+  <a href="reflection.html">Course Reflection</a>
+</p>
