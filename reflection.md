@@ -13,8 +13,6 @@ This reflection summarizes my experience in this course, focusing on what I lear
   <a href="#future-application" class="pill">Future Application</a>
 </div>
 
----
-
 ## What I'm Proud Of? {#what-im-proud-of}
 
 Early in the semester, I fell behind due to personal and academic challenges, and it became difficult to re-engage. What I am most proud of is that I did not give up. I used the course resources, reviewed examples and feedback, and worked through each assignment step by step until everything was completed. I also continued revising assignments based on Professor Johnson’s feedback, even when they were no longer eligible to be regraded. I did this to apply what I learned and to make each document as strong as possible for my portfolio, which helped me get more out of the experience overall. I am  proud that I was able to complete all of the major writing assignments in this course, especially my proposal, since that was I type of writing that was completely new to me. 
